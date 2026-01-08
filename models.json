@@ -110,5 +110,89 @@
   {
     "image": "images/sus.webp",
     "title": "Modelo da Operária Sus"
+  },
+  {
+    "image": "images/aleph.png",
+    "title": "Modelo do Zangão Aleph"
+  },
+  {
+    "image": "images/buddha.png",
+    "title": "Modelo do Zangão Buddha"
+  },
+  {
+    "image": "images/caffe.png",
+    "title": "Modelo do Zangão Caffe"
+  },
+  {
+    "image": "images/caffe1.png",
+    "title": "Modelo do Zangão Caffe"
+  },
+  {
+    "image": "images/chapeu_da_fita_amarela.png",
+    "title": "Modelo do Zangão Chapéu da Fita Amarela"
+  },
+  {
+    "image": "images/coelha_maga.png",
+    "title": "Modelo da Operária Coelha Maga"
+  },
+  {
+    "image": "images/dazai1.png",
+    "title": "Modelo do Zangão Dazai"
+  },
+  {
+    "image": "images/demonia.png",
+    "title": "Modelo da Operária Demonia"
+  },
+  {
+    "image": "images/dragao_negro.png",
+    "title": "Modelo do Zangão Dragão Negro"
+  },
+  {
+    "image": "images/dragon.png",
+    "title": "Modelo do Zangão Dragon"
+  },
+  {
+    "image": "images/elfo_medico.png",
+    "title": "Modelo do Zangão Elfo Médico"
+  },
+  {
+    "image": "images/fadoooo.png",
+    "title": "Modelo do Zangão Fadoooo"
+  },
+  {
+    "image": "images/macaco_fant0n.png",
+    "title": "Modelo do Zangão Macaco Fant0n"
+  },
+  {
+    "image": "images/ratinho_lony.png",
+    "title": "Modelo do Zangão Ratinho Lony"
+  },
+  {
+    "image": "images/mel.png",
+    "title": "Modelo do Zangão Mel"
+  },
+  {
+    "image": "images/ninja_asas_negras.png",
+    "title": "Modelo do Zangão Ninja Asas Negras"
+  },
+  {
+    "image": "images/o_touro.png",
+    "title": "Modelo do Zangão O Touro"
+  },
+  {
+    "image": "images/olhos_de_anjo.png",
+    "title": "Modelo da Operária Olhos de Anjo"
+  },
+  {
+    "image": "images/omnix1.png",
+    "title": "Modelo do Zangão Omnix"
+  },
+  {
+    "image": "images/sonho_de_padaria_granulada.png",
+    "title": "Modelo da Operária Sonho de Padaria Granulada"
+  },
+  {
+    "image": "images/yuna.png",
+    "title": "Modelo da Operária Yuna"
   }
 ]
