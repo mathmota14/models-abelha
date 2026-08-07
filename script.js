@@ -8,6 +8,11 @@ document.addEventListener("DOMContentLoaded", async () => {
   const dialogImg = document.getElementById("dialog-img");
   const closeBtn = document.getElementById("close-dialog");
 
+  const currentYear = document.getElementById("year");
+  if (currentYear) {
+    currentYear.textContent = new Date().getFullYear();
+  }
+
   let models = [];
   let currentIndex = 0;
 
