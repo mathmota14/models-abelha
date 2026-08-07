@@ -1,0 +1,17 @@
+{
+  "name": "models-abelha",
+  "version": "1.0.0",
+  "description": "Models Abelha - Portfolio de modelos 3D",
+  "type": "module",
+  "scripts": {
+    "dev": "npx vite",
+    "build": "npx vite build",
+    "preview": "npx vite preview"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.3.1"
+  },
+  "devDependencies": {
+    "vite": "^5.4.11"
+  }
+}
